@@ -5,7 +5,7 @@ This project was a simple means of improving my Fusion/CAD skill and solving a b
 
 This is the design, with images:
 
-m<img width="1335" height="811" alt="image" src="https://github.com/user-attachments/assets/44fe115f-8e13-4c9b-b95c-6d472d80330f" />
+<img width="1335" height="811" alt="image" src="https://github.com/user-attachments/assets/44fe115f-8e13-4c9b-b95c-6d472d80330f" />
 
 <img width="1085" height="771" alt="image" src="https://github.com/user-attachments/assets/de53cbe3-6b67-47e7-9243-4e572a52d1f4" />
 
